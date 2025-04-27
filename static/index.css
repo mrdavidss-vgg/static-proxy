@@ -17,7 +17,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 10vh;
+  height: 5vh;
 }
 
 #header h1 {
@@ -29,7 +29,7 @@ body {
 }
 
 #header img {
-  width: 15%;
+  width: 10%;
   min-width: 80px;
   max-width: 200px;
   height: auto;
